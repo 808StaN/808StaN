@@ -3,7 +3,7 @@
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr><td align="center">
       <!-- 🎴 HEADER TYPING EFFECT -->
       <a href="https://git.io/typing-svg">
@@ -33,7 +33,7 @@
 <hr style="height:3px; background-color:#4190D1; border:none;">
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td valign="top" width="60%">
         <br>
@@ -74,7 +74,7 @@
 <hr style="height:3px; background-color:#4190D1; border:none;">
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" valign="top" width="50%">
         <b>💻 Languages</b><br><br>
@@ -131,7 +131,7 @@
 <hr style="height:3px; background-color:#4190D1; border:none;">
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr><td align="center">
       <a href="https://linkedin.com/in/dawidstanisz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <img src="https://img.shields.io/badge/dstanisz.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
