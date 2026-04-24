@@ -9,7 +9,7 @@
   </a>
   <br><br>
   <!-- 🌌 AESTHETIC HEADER GIF -->
-  <img src="./header.gif" width="720" alt="coding aesthetic" />
+  <img src="./header.gif" width="6000" alt="coding aesthetic" />
   <br><br>
   <!-- 🧬 BADGES -->
   <img src="https://img.shields.io/github/followers/808StaN?style=for-the-badge&color=4190D1&labelColor=122646&logo=github&logoColor=white" alt="followers" />
@@ -31,7 +31,7 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td valign="top" width="60%">
+      <td valign="top" width="55%">
         <br>
         <p align="left">
           Hi, I'm Dawid, a full-stack developer based in Poland 🇵🇱, specializing in React and Node.js.<br><br>
@@ -40,20 +40,20 @@
           I'm open to relocation and looking for opportunities where I can grow as a developer and build meaningful products.
         </p>
       </td>
-      <td valign="top" width="40%" align="center">
+      <td valign="top" width="45%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=808StaN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
         <br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&langs_count=10&v=2" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=808StaN&bg_color=151b23&color=ffffff&line=4190d1&point=c2c2c2&area=true&area_color=4190d1&hide_border=true" width="100%" />
-        </a>
-      </td>
-    </tr>
+  </table>
+
+  <table border="0" cellpadding="-50" cellspacing="0">
+    <tr><td align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=808StaN&bg_color=0d1117&color=ffffff&line=4190d1&point=c2c2c2&area=true&area_color=4190d1&hide_border=true" width="100%" />
+      </a>
+    </td></tr>
   </table>
 </div>
 
@@ -123,9 +123,9 @@
 
 <!-- ──────────── CONTACT ──────────── -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" />
   Contact
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="28" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" />
 </h3>
 
 <hr style="height:3px; background-color:#4190D1; border:none;">
