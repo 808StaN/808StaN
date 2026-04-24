@@ -9,7 +9,7 @@
   </a>
   <br><br>
   <!-- 🌌 AESTHETIC HEADER GIF -->
-  <img src="./header.gif" width="6000" alt="coding aesthetic" />
+  <img src="./header.gif" width="600" alt="coding aesthetic" />
   <br><br>
   <!-- 🧬 BADGES -->
   <img src="https://img.shields.io/github/followers/808StaN?style=for-the-badge&color=4190D1&labelColor=122646&logo=github&logoColor=white" alt="followers" />
@@ -95,9 +95,7 @@
     </tr>
   </table>
 
-  <br>
-
-  <table border="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top" width="50%">
         <b>🗄️ Databases</b><br><br>
@@ -137,7 +135,7 @@
   <br><br>
   <p><b>Thank you for visiting my profile!</b></p>
   <img src="https://media1.tenor.com/m/DrgaMLmVdp8AAAAC/dragon-ball-dragon-ball-z.gif" width="300" alt="Dragon Ball" />
-  <p><i>Have a nice day!</i></p>
+  <p><i><b>Have a nice day!<b></i></p>
 </div>
 
 <!-- 🐍 CONTRIBUTION SNAKE (Optional: Setup GitHub Action to generate this) -->
