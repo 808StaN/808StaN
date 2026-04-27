@@ -13,8 +13,8 @@
   <br><br>
   <!-- 🧬 BADGES -->
   
-  <img src="https://komarev.com/ghpvc/?username=808StaN&label=%F0%9F%91%80%20visitors&color=4190D1&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/808StaN?style=for-the-badge&color=4190D1&labelColor=122646&logo=github&logoColor=white" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=808StaN&label=%F0%9F%91%80%20visitors&color=4190D1&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/stars/808StaN?style=for-the-badge&color=4190D1&labelColor=122646&logo=github&logoColor=white" alt="stars" />
 </div>
 
