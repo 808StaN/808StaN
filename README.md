@@ -9,7 +9,7 @@
   </a>
   <br><br>
   <!-- 🌌 AESTHETIC HEADER GIF -->
-  <img src="./header.gif" width="600" alt="coding aesthetic" />
+  <!--<img src="./header.gif" width="600" alt="coding aesthetic" />-->
   
   <!-- 🧬 BADGES -->
   
