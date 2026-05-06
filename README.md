@@ -44,7 +44,7 @@
       <td valign="top" width="45%" align="center">
         <img src="https://github-readme-stats-snowy-phi-18.vercel.app/api?username=808StaN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&langs_count=10&v=2" />
+        <img src="https://github-readme-tech-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&langs_count=10&v=2" />
       </td>
     </tr>
   </table>
