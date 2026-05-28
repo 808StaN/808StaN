@@ -35,9 +35,9 @@
       <td valign="top" width="55%">
         <br>
         <p align="left">
-          Hi, I'm Dawid, a full-stack developer based in Poland, specializing in React and Node.js.<br><br>
-          I mainly build web applications and websites with React, focusing on performance, clean architecture, and practical backend integration using Node.js. Alongside that, I develop smaller JavaScript projects, including browser extensions, simple tools, and occasional game modifications. I've also worked a bit with C#, building desktop applications.<br><br>
-          I'm currently studying at WSIiZ in Rzeszów while actively developing my skills through projects like OpenStudio and OtakuVersus, combining strong frontend execution with real-world backend logic.<br><br>
+         Hi, I'm Dawid, a full-stack developer based in Poland, specializing in React, Next.js, and Node.js.<br><br>
+          I tend to build things I'm genuinely passionate about. That's led me to ship products across different domains - a live fantasy esports platform (RiftPick), a browser-based music production tool (OpenStudio), and a real-time quiz game (OtakuVersus). I focus on performance, clean architecture, and practical backend integration across every project.<br><br>
+          I'm currently studying at WSIiZ in Rzeszów while actively developing my skills through my projects, combining strong frontend execution with real-world backend logic.<br><br>
           I'm open to relocation and looking for opportunities where I can grow as a developer and build meaningful products.
         </p>
       </td>
