@@ -122,7 +122,7 @@
 <br>
 
 <!-- ──────────── CONTACT ──────────── -->
-<h3 align="center">
+<!--<h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" />
   Contact
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" />
@@ -138,7 +138,7 @@
   <p><b>Thank you for visiting my profile!</b></p>
   <img src="https://media1.tenor.com/m/DrgaMLmVdp8AAAAC/dragon-ball-dragon-ball-z.gif" width="300" alt="Dragon Ball" />
   <p><i><b>Have a nice day!<b></i></p>
-</div>
+</div>-->
 
 <!-- 🐍 CONTRIBUTION SNAKE (Optional: Setup GitHub Action to generate this) -->
 <!-- 
