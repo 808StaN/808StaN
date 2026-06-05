@@ -49,14 +49,14 @@
     </tr>
   </table>
 
-  <table border="0" cellpadding="-50" cellspacing="0">
+ <!-- <table border="0" cellpadding="-50" cellspacing="0">
     <tr><td align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=808StaN&bg_color=0d1117&color=ffffff&line=4190d1&point=c2c2c2&area=true&area_color=4190d1&hide_border=true" width="100%" />
       </a>
     </td></tr>
   </table>
-</div>
+</div>-->
 
 <br>
 
