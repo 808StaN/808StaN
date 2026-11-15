@@ -42,9 +42,15 @@
         </p>
       </td>
       <td valign="top" width="45%" align="center">
-        <img src="https://github-readme-stats-snowy-phi-18.vercel.app/api?username=808StaN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-phi-18.vercel.app/api?username=808StaN&show_icons=true&hide_border=true&bg_color=00000000&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
+          <img src="https://github-readme-stats-snowy-phi-18.vercel.app/api?username=808StaN&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=0969DA&rank_icon=percentile" alt="StaN's GitHub Stats" />
+        </picture>
         <br><br>
-        <img src="https://github-readme-tech-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&langs_count=10&v=2" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-tech-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=00000000&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&langs_count=10&v=2" />
+          <img src="https://github-readme-tech-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=0969DA&langs_count=10&v=2" alt="Most Used Languages" />
+        </picture>
       </td>
     </tr>
   </table>
