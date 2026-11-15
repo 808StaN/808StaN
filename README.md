@@ -35,10 +35,10 @@
       <td valign="top" width="55%">
         <br>
         <p align="left">
-         Hi, I'm Dawid, a full-stack developer based in Poland, specializing in React, Next.js, and Node.js.<br><br>
-          I tend to build things I'm genuinely passionate about. That's led me to ship products across different domains - a live fantasy esports platform (RiftPick), a browser-based music production tool (OpenStudio), and a real-time quiz game (OtakuVersus). I focus on performance, clean architecture, and practical backend integration across every project.<br><br>
-          I'm currently studying at WSIiZ in Rzeszów while actively developing my skills through my projects, combining strong frontend execution with real-world backend logic.<br><br>
-          I'm open to relocation and looking for opportunities where I can grow as a developer and build meaningful products.
+          Hi, I'm Dawid, a web developer based in Poland. I'm especially interested in frontend development, particularly interface design and animation.<br><br>
+          I build my web applications mainly with React, Next.js, and TypeScript, working on everything from the interface and interactions to the backend logic.<br><br>
+          I'm currently studying at WSIiZ in Rzeszów and looking for a developer role where I can build on my skills and learn from other developers.<br>
+          I'm open to relocation.
         </p>
       </td>
       <td valign="top" width="45%" align="center">
